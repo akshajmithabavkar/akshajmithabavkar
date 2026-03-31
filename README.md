@@ -1,23 +1,21 @@
-🚀 Hello, I'm Akshaj Mithabavkar!
-B.Sc. IT Student | Logic-Driven Developer
-I am a second-year IT student at St. Rocks Degree College, Mumbai. I focus on building a strong foundation in core programming and problem-solving, turning complex logic into clean, functional code.
+
+👋 Hi, I'm Akshaj Mithabavkar
+B.Sc. IT Student @ St. Rocks Degree College, Mumbai Passionate about Logic-Based Programming & Web Development
 🛠 Tech Stack
-Languages: Python, Java, C, C++
-Web Basics: HTML5, CSS3
-Tools: Git, GitHub, VS Code, Termux, Acode
-🔭 Featured Projects
-[Password Strength Validator]
-Description: A tool designed to evaluate password complexity based on security standards (length, special characters, and casing).
-Skills: String Manipulation, Regex (Regular Expressions), Security Logic, and Conditional Programming.
-[Logic-Based Pattern Generator]
-Description: Implementation of complex geometric and mathematical patterns.
-Skills: Nested Loops, Algorithmic Thinking, and Memory Management.
+Languages: Python, Java, C++, C
+Web Development: HTML5, CSS3
+Environments: VS Code, Acode, Termux (Mobile-based Development)
+📂 Featured Projects
+1. Password Strength Validator 🔐
+What it is: A Python/Java-based tool to check password security.
+Key Skills: Security Logic, String Manipulation, and Regex.
+2. Logic-Based Pattern Generator 📐
+What it is: Complex geometric patterns built using nested loops.
+Key Skills: Algorithmic Thinking and Problem Solving.
 🌱 Current Focus
-Developing secure and efficient logic in Python and Java.
-Mastering Data Structures and Algorithms (DSA).
-Optimizing code for mobile development environments like Termux.
+Building efficient and secure code.
+Mastering core Programming Logic (Java/Python).
+Seeking my first technical internship to apply my skills.
 📫 Connect with me
-Location: Mumbai, MH
 LinkedIn: https://www.linkedin.com/in/akshaj-mithabavkar-aaa56b38a 
-⚡ Professional Philosophy
-"Secure code starts with strong logic".
+Location: Mumbai, MH
